@@ -1,1 +1,4 @@
-# api are defined
+# signup
+# login to generate token
+# get current user
+# update user
